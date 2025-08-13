@@ -47,7 +47,7 @@ A beautiful, feature-rich calendar application built with vanilla HTML, CSS, and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/productivity-calendar.git
+   git clone https://github.com/ashutosh21kumar07/ProductivityCalender.git
    cd productivity-calendar
    ```
 
